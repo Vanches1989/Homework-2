@@ -1,0 +1,12 @@
+.head {
+	background: green;
+	margin: 0 auto;
+	padding: 0 0;
+	width: 1200px;
+	height: 800px;
+}
+
+li {
+	list-style: none;
+	color: red;
+}
